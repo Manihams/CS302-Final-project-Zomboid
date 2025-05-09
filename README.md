@@ -9,8 +9,11 @@ How to run the game:
 The scene starts in the Main menu with instructions on how to play the game and PLAY button to start the game. You can always restart the game as many times as you want after player is killed by selecting Restart button and can exit by selecting Quit button.
 
 How to play the game:
+
 Player movement: WASD or ARROW keys 
+
 Shoot: SPACEBAR
+
 Aim and rotate: MOUSE CURSOR
 
 
