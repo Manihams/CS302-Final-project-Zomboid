@@ -17,5 +17,8 @@ Shoot: SPACEBAR
 Aim and rotate: MOUSE CURSOR
 
 
+Warnings: When the game runs, five warnings will be displayed and it doesn't cause any issue.
+
+
 
 
